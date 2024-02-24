@@ -1,0 +1,77 @@
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoH2:31] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: perez
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoH2:75] Listado de odontólogos obtenido: []
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoMemoria:27] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Mario - Apellido: perez
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoMemoria:27] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Nuria - Apellido: varela
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoMemoria:27] Odontólogo guardado en memoria: Número de Matrícula: 2 - Nombre: lucas - Apellido: suculini
+[2024-02-23 18:39:26] [ INFO ] [OdontologoDaoMemoria:33] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Nuria - Apellido: varela, Número de Matrícula: 2 - Nombre: lucas - Apellido: suculini]
+
+[2024-02-23 20:49:26] [ INFO ] [OdontologoDaoH2:31] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: perez
+[2024-02-23 20:49:27] [ INFO ] [OdontologoDaoH2:75] Listado de odontólogos obtenido: []
+[2024-02-23 20:49:27] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Mario - Apellido: perez
+[2024-02-23 20:49:27] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Nuria - Apellido: varela
+[2024-02-23 20:49:27] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 2 - Nombre: lucas - Apellido: suculini
+[2024-02-23 20:49:27] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Nuria - Apellido: varela, Número de Matrícula: 2 - Nombre: lucas - Apellido: suculini]
+[2024-02-23 20:54:59] [ INFO ] [OdontologoDaoH2:31] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Perez - Apellido: martinez
+[2024-02-23 20:54:59] [ INFO ] [OdontologoDaoH2:75] Listado de odontólogos obtenido: []
+[2024-02-23 20:54:59] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Gomez - Apellido: simon
+[2024-02-23 20:54:59] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Gomez - Apellido: simon]
+[2024-02-23 20:57:57] [ INFO ] [OdontologoDaoH2:31] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 20:57:57] [ INFO ] [OdontologoDaoH2:75] Listado de odontólogos obtenido: []
+[2024-02-23 20:57:57] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 20:57:57] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:03:11] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:03:11] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:03:11] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:03:11] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:03:16] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:03:16] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:03:16] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:03:16] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:06:14] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:06:14] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:06:14] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:06:14] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:09:56] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:09:56] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:09:56] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:09:56] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:14:47] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:14:47] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:14:47] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:14:47] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:16:12] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:16:12] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:16:12] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:16:12] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:16:36] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:16:36] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:16:36] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:16:36] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:18:24] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:18:24] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:18:24] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:18:24] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:34:47] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:34:47] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:34:47] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:34:47] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:35:48] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:35:48] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:35:48] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:35:48] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:36:24] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:36:24] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:36:24] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:36:24] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:37:47] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:37:47] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:37:47] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:37:47] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:41:00] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:41:00] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:41:00] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:41:00] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
+[2024-02-23 21:47:45] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:47:45] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:47:45] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:47:45] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]

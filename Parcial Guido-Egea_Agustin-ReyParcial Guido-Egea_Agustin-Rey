@@ -1,0 +1,4 @@
+[2024-02-23 21:45:18] [ INFO ] [OdontologoDaoH2:30] Se ha registrado el odontólogo: Número de Matrícula: 2 - Nombre: Lucas - Apellido: martinez
+[2024-02-23 21:45:18] [ INFO ] [OdontologoDaoH2:74] Listado de odontólogos obtenido: []
+[2024-02-23 21:45:18] [ INFO ] [OdontologoDaoMemoria:25] Odontólogo guardado en memoria: Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon
+[2024-02-23 21:45:18] [ INFO ] [OdontologoDaoMemoria:31] Listado de odontólogos en memoria: [Número de Matrícula: 1 - Nombre: Ramiro - Apellido: simon]
